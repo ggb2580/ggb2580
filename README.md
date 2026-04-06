@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🧙 一个在 Java 世界缓慢升级的魔法师
 
-<!--
-**ggb2580/ggb2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大三学生 · 后端开发（实习寻找中）  
+相信代码能改变世界，更相信能先改变自己的 `bug` 数量。
 
-Here are some ideas to get you started:
+## 🧭 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 软件工程 2023级（大三）
+- 🔭 正在从 `Spring Boot 熟练工` 向 `真正懂并发/懂 JVM 的工程师` 过渡
+- 🌱 现阶段沉迷：**Java 并发编程** · **JVM 调优** · **微服务踩坑**
+- 🧠 人生信条：**先跑起来，再优化**（仅限代码，不包括人生）
+
+## 🛠 我目前能拿得出手的
+
+| 类别 | 技术 | 自我评价 |
+|------|------|----------|
+| 语言 | Java (8/11/17) | ⭐⭐⭐⭐ 日常够用 |
+| 框架 | Spring Boot / Cloud | ⭐⭐⭐ 能搭项目，会做简单治理 |
+| 框架 | MyBatis-Plus | ⭐⭐⭐⭐ 熟练，知道懒加载坑 |
+| 数据库 | MySQL | ⭐⭐⭐ 索引优化在学，慢 SQL 能分析 |
+| 中间件 | Redis | ⭐⭐⭐ 缓存、分布式锁简单用过 |
+| 中间件 | RabbitMQ / Kafka | ⭐⭐ 理论懂，用过 demo |
+| 工具 | Git / Docker / Linux | ⭐⭐⭐ 日常开发必备，会写 Dockerfile |
+
+## 📦 最近在做的项目（真实学习项目）
+
+- 📖 **个人博客系统** – 从单体演进到微服务（Spring Cloud + Gateway + Nacos），正在做  
+- 💰 **模拟秒杀系统** – 学习 Redis 预减库存 + Kafka 异步下单，压测中
+
+## 📫 怎么找到我（欢迎交流，求实习求内推）
+
+- 📧 Email: junkaiw123@outlook.com 
+- 💬 或者直接在这个仓库提 issue，我看到会回
+
+## ✨ 最后说两句
+
+> 大三的我还不是大神，但我知道 2026 年的我肯定比 2025 年的我强。  
+> 欢迎一起学习、一起写有意思的后端项目，**也欢迎告诉我哪里写得不好**（真心求教）。
