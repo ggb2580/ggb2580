@@ -35,4 +35,3 @@
 
 > 大三的我还不是大神，但我知道 2026 年的我肯定比 2025 年的我强。  
 > 欢迎一起学习、一起写有意思的后端项目，**也欢迎告诉我哪里写得不好**（真心求教）。
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=ggb2580&label=Profile%20Views&color=blue&style=flat)
